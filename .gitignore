@@ -11,3 +11,4 @@
 
 .env
 composer.lock
+.php-version
